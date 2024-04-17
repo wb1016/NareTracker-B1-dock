@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nareb1conn")(type "KiCad")(uri "${KIPRJMOD}/lib/nareb1conn.kicad_sym")(options "")(descr ""))
+)
